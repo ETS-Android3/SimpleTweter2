@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Presendieu/SimpleTweter2/blob/master/20220205_121944.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
